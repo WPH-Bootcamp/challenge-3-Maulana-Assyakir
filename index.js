@@ -14,7 +14,7 @@ function getValidNumberInput(prompMessage) {
     return parseFloat(num);}
 {}
 
-// funciton
+// 2. Basic Arithmetic Operation (Functions and Operators)
 function calculation(a, b, operator) {
     switch (operator) {
         case "+": return a + b;
